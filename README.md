@@ -10,7 +10,7 @@
 ## 🔗 Enlaces Principales del Curso
 
 ### 📌 Acceso Rápido
-- **[📚 Página del Curso en Notion](https://tu-notion-link.com)** - Hub principal con todo el contenido
+- **[📚 Página del Curso en Notion](https://gamy-table-e18.notion.site/Matem-tica-Computacional-para-las-Ciencias-Sociales-29bf20a45ba680f3804de8591b3520b1)** - Hub principal con todo el contenido
 - **[📁 Material en Google Drive](https://drive.google.com/drive/folders/1Hq1RnKaCe4xMWEV6oGSGeabTMjm7PdFe)** - PDFs, sílabo y materiales
 - **[🐍 Propedéutico Python y Matemáticas](https://gamy-table-e18.notion.site/Proped-utico-de-Matem-ticas-y-Programaci-n-en-Python-258f20a45ba680979649d9f48bd7a90a)** - Base fundamental
 
