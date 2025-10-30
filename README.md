@@ -28,12 +28,6 @@
 
 ---
 
-¡Claro\! La instrucción que necesitas agregar es `git pull`.
-
-Aquí tienes cómo quedaría tu sección de "Inicio Rápido" con esa adición. Ajusté ligeramente los títulos para que quede más claro cuándo usar cada comando.
-
------
-
 ## 🚀 Inicio Rápido
 
 ### 1\. Clonar el repositorio (Solo la primera vez)
@@ -164,6 +158,6 @@ Contacta directamente al equipo docente
 
 ---
 
-⭐ **Si este repositorio te es útil, considera darle una estrella!**
+⭐ **Si este repositorio te es útil, apoya al talento nacional y dale una estrella!**
 
 *Última actualización: Octubre 2025*
