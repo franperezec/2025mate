@@ -1,0 +1,39 @@
+name: mate2025
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core
+  - python=3.12
+  - pip
+  - ipykernel
+  
+  # Científico
+  - numpy
+  - pandas
+  - scipy
+  - sympy
+  
+  # Visualización
+  - matplotlib
+  - seaborn
+  - plotly
+  
+  # Jupyter
+  - jupyter
+  - jupyterlab
+  - ipywidgets
+  - widgetsnbextension
+  
+  # Utilidades
+  - networkx
+  - openpyxl
+  - xlrd
+  
+  # Desarrollo
+  - black
+  - pylint
+  
+  # Pip packages
+  - pip:
+    - nashpy  # Teoría de juegos
